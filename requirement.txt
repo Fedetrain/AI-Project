@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+scikit-learn
+opencv-python-headless
+numpy
+pandas
+# Aggiungi tutte le altre dipendenze dei tuoi progetti (es. joblib per i pkl)
