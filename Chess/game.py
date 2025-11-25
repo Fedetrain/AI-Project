@@ -55,7 +55,7 @@ class Game:
         pygame.mixer.init()
         
         self.screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-        pygame.display.set_caption("Gem Scacchi - AI Trainer")
+        pygame.display.set_caption(" Scacchi - AI Trainer")
         
         self.clock = pygame.time.Clock()
         self.asset_manager = AssetManager()

@@ -159,7 +159,7 @@ class UIManager:
         w = ANALYSIS_PANEL_WIDTH - (2 * self.panel_padding)
 
         # 1. Titolo e Status
-        screen.blit(self.fonts['title'].render("Gem Scacchi Pro", True, COLORS.TESTO), (x, y))
+        screen.blit(self.fonts['title'].render("Chess trainer", True, COLORS.TESTO), (x, y))
         y += 35
         col = COLORS.MIGLIORE if "Tocca a te" in self.status_text else COLORS.TESTO_SEC
         screen.blit(self.fonts['body'].render(self.status_text, True, col), (x, y))

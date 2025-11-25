@@ -68,7 +68,7 @@ except AttributeError:
 ASSET_PATH = os.path.join(BASE_DIR, "assets")
 PGN_PATH = os.path.join(BASE_DIR, "partite_pgn")
 BOOK_PATH = os.path.join(ASSET_PATH, "book.bin")
-STOCKFISH_PATH = "C:/Users/feder/Desktop/progetti ai/scacchi/stockfish-windows-x86-64-avx2/stockfish/stockfish-windows-x86-64-avx2.exe"
+STOCKFISH_PATH = "my_ai_portfolio/Chess/stockfish-windows-x86-64-avx2/stockfish/stockfish-windows-x86-64-avx2.exe"
 
 # --- Configurazione GUI ---
 BOARD_SIZE = 720

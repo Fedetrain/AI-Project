@@ -25,9 +25,8 @@ st.markdown("""
 """)
 
 st.header("Screenshot del Gioco")
-st.warning("Azione richiesta: Aggiungi uno screenshot del tuo gioco in `assets/scacchi_screenshot.png` e scommenta la riga qui sotto.")
-# st.image("assets/scacchi_screenshot.png", caption="Screenshot dell'applicazione Pygame in esecuzione")
+st.image("assets/example.bpm", caption="Screenshot dell'applicazione Pygame in esecuzione")
 
 st.header("Esplora il Codice")
 st.markdown("Il codice completo di questo progetto è disponibile sul mio repository GitHub.")
-st.link_button("Vai al Repository GitHub", "https://github.com/TUO_NOME_UTENTE/NOME_REPO")
+st.link_button("Vai al Repository GitHub", "https://github.com/Fedetrain/AI-Project")
