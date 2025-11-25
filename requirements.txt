@@ -1,0 +1,15 @@
+streamlit
+tensorflow
+scikit-learn
+opencv-python-headless
+imageio
+numpy
+pandas
+seaborn
+matplotlib
+xgboost
+imbalanced-learn
+category_encoders
+requests
+
+

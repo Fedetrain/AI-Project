@@ -2,6 +2,14 @@ streamlit
 tensorflow
 scikit-learn
 opencv-python-headless
+imageio
 numpy
 pandas
-# Aggiungi tutte le altre dipendenze dei tuoi progetti (es. joblib per i pkl)
+seaborn
+matplotlib
+xgboost
+imbalanced-learn
+category_encoders
+requests
+
+
